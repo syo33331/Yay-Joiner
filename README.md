@@ -22,4 +22,4 @@ git clone https://github.com/syo3331/yay-joiner.git
 
 ## Usage
 
-### After setting up your token and account information, you're ready to use Yay! Joiner. [Include usage instructions or commands here.]
+### After setting up your token and account information, you're ready to use Yay! Joiner. 

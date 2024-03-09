@@ -8,6 +8,7 @@ Welcome to Yay! Joiner
 
 ```bash
 git clone https://github.com/syo3331/yay-joiner.git
+```
 
 ## Configuration
 ## Token Setup

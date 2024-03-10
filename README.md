@@ -8,7 +8,7 @@ Welcome to Yay! Joiner
 1. Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/syo3331/yay-joiner.git
+git clone https://github.com/syo33331/yay-joiner.git
 ```
 
 ## Configuration
